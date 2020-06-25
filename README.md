@@ -1,6 +1,6 @@
 <div class="entry-content clearfix">
                             
-<p>根据本人的实际使用，推荐：<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://www.v2jj.com/register?aff=WEEf3" target="_blank">阿凡梯</a>，直接购买，然后在用户中心下载客户端，输入参数或订阅地址即可使用，非常方便 ，不懂的，后台都有配置教程，真是好用的飞机场节点 。下面就介绍一下这两家产品，你根据自己需要选择。</p>
+<p>根据本人的实际使用，推荐：<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://www.afunv.com/register?aff=WEEf3" target="_blank">阿凡梯</a>，直接购买，然后在用户中心下载客户端，输入参数或订阅地址即可使用，非常方便 ，不懂的，后台都有配置教程，真是好用的飞机场节点 。下面就介绍一下这两家产品，你根据自己需要选择。</p>
 
 
 <p>二、阿凡梯</p>
@@ -27,7 +27,7 @@
 
 
 
-<p><strong><a href="https://www.v2jj.com/register?aff=WEEf3" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">点击注册</a></strong></p>
+<p><strong><a href="https://www.afunv.com/register?aff=WEEf3" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">点击注册</a></strong></p>
 
 
 
@@ -40,4 +40,4 @@
 
 
 <p>注意：本教程仅供个人交流学习研究使用，请勿用于非法用途，本站不提供任何技术支持。</p>
-                                                        <div class="entry-copyright"><p>原创文章，作者：维尼兔，如若转载，请注明出处：https://www.v2v0.com/?p=247</p></div>                        </div>
+                                                                                </div>
