@@ -1,6 +1,6 @@
 <div class="entry-content clearfix">
                             
-<p>根据本人的实际使用，推荐：<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://www.afunv.com/register?aff=WEEf3" target="_blank">阿凡梯</a>，直接购买，然后在用户中心下载客户端，输入参数或订阅地址即可使用，非常方便 ，不懂的，后台都有配置教程，真是好用的飞机场节点 。下面就介绍一下这两家产品，你根据自己需要选择。</p>
+<p>根据本人的实际使用，推荐：<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://www.afunv.com/register?aff=461" target="_blank">阿凡梯</a>，直接购买，然后在用户中心下载客户端，输入参数或订阅地址即可使用，非常方便 ，不懂的，后台都有配置教程，真是好用的飞机场节点 。下面就介绍一下这两家产品，你根据自己需要选择。</p>
 
 
 <p>二、阿凡梯</p>
@@ -27,7 +27,7 @@
 
 
 
-<p><strong><a href="https://www.afunv.com/register?aff=WEEf3" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">点击注册</a></strong></p>
+<p><strong><a href="https://www.afunv.com/register?aff=461" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">点击注册</a></strong></p>
 
 
 
