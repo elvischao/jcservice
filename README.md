@@ -1,6 +1,6 @@
 <div class="entry-content clearfix">
                             
-<p>根据本人的实际使用，推荐：<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://dwz.afunv.top/3" target="_blank">阿凡梯</a>，直接购买，然后在用户中心下载客户端，输入参数或订阅地址即可使用，非常方便 ，不懂的，后台都有配置教程，真是好用的飞机场节点 。下面就介绍一下这两家产品，你根据自己需要选择。</p>
+<p>根据本人的实际使用，推荐：<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://www.afunv.cyou" target="_blank">阿凡梯</a>，直接购买，然后在用户中心下载客户端，输入参数或订阅地址即可使用，非常方便 ，不懂的，后台都有配置教程，真是好用的飞机场节点 。下面就介绍一下这两家产品，你根据自己需要选择。</p>
 
 
 <p>二、阿凡梯</p>
@@ -15,7 +15,7 @@
 
 
 
-<figure class="wp-block-image size-large"><div class="fluidbox__wrap" style="z-index: 1;"><img src="http://www.v2v0.com/wp-content/uploads/2019/12/4984E867-9D43-44E4-920B-85FCDAC9646B-1024x729.jpg" data-original="http://www.v2v0.com/wp-content/uploads/2019/12/4984E867-9D43-44E4-920B-85FCDAC9646B-1024x729.jpg" alt="便宜好用的SSR/V2Ray机场服务节点推荐" class="wp-image-228 j-lazy fluidbox__thumb" style="opacity: 1; display: inline;"><div class="fluidbox__ghost" style="width: 800px; height: 570px; top: 0px; left: 0px;"></div><div class="fluidbox__loader" style="z-index: 2;"></div></div></a></figure>
+<figure class="wp-block-image size-large"><div class="fluidbox__wrap" style="z-index: 1;"><img src="http://www.v2hi.top/wp-content/uploads/2019/12/4984E867-9D43-44E4-920B-85FCDAC9646B-1024x729.jpg" data-original="http://www.v2hi.top/wp-content/uploads/2019/12/4984E867-9D43-44E4-920B-85FCDAC9646B-1024x729.jpg" alt="便宜好用的SSR/V2Ray机场服务节点推荐" class="wp-image-228 j-lazy fluidbox__thumb" style="opacity: 1; display: inline;"><div class="fluidbox__ghost" style="width: 800px; height: 570px; top: 0px; left: 0px;"></div><div class="fluidbox__loader" style="z-index: 2;"></div></div></a></figure>
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-<p><strong><a href="https://dwz.afunv.top/3" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">点击注册</a></strong></p>
+<p><strong><a href="https://www.afunv.cyou" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">点击注册</a></strong></p>
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-<p><a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="http://www.v2v0.com/?p=239" target="_blank">用VPS搭建V2Ray服务器教程</a></p>
+<p><a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="http://www.v2hi.top/?p=239" target="_blank">用VPS搭建V2Ray服务器教程</a></p>
 
 
 
